@@ -1,1 +1,1 @@
-# my-first-internship
+# My DataAnalyst Internship
